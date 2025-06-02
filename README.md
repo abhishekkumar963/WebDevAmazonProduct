@@ -43,6 +43,8 @@ Welcome to the **Amazon Clone** project — a visually stunning and fully respon
 - **HTML5** – Markup for content structure  
 - **CSS3** – Styling, layout, flexbox/grid responsiveness  
 - *(No JavaScript or frameworks used — pure frontend UI)*
+- Flexbox & Grid – For responsive and organized layouts
+- Font Awesome (optional) – For icons, if used
 
 ---
 
